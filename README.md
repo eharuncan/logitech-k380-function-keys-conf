@@ -12,7 +12,7 @@ sudo dnf groupinstall "Development Tools"
 # on Arch-linux 
 sudo pacman -Sy base-devel
 ```
-2) Download installation files https://github.com/jergusg/k380-function-keys-conf/releases/ (Source code).
+2) Download installation files "source-code-k380-function-keys-conf-1.1.tar.gz" (Source code).
 
 3) Connect your K380 keyboard via bluetooth to your computer.
 
